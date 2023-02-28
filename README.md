@@ -1,6 +1,6 @@
 ### Hi, i'm Lucas Antonio Cardoso 👋
 
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I'm currently a fullstack java programmer, and I'm exploring new frameworks like angular and reactjs.
 
 - 🏠 Tubarão, Brazil
 

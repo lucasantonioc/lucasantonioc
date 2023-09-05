@@ -4,10 +4,10 @@
 
 - 🏠 Tubarão, Brazil
 
-- <a href="https://www.linkedin.com/in/lucas-antonio-cardoso-9374b3166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- <a href="https://www.linkedin.com/in/lucasantoniocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasantonioo&layout=compact&langs_count=6&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasantonioc&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ### Tools I work with

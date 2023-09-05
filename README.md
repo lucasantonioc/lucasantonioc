@@ -1,10 +1,9 @@
 ### Hi, i'm Lucas Antonio Cardoso 👋
+https://www.linkedin.com/in/lucasantoniocardoso/
 
-- 🌱 I'm currently a fullstack java programmer, and I'm exploring new frameworks like angular and reactjs.
+🌱 I'm currently a fullstack java programmer, and I'm exploring new frameworks like angular and reactjs.
 
-- 🏠 Tubarão, Brazil
-
-- <a href="https://www.linkedin.com/in/lucasantoniocardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+🏠 Tubarão, Brazil
 
 <div> 
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasantonioc&layout=compact&langs_count=6&theme=dark"/>
